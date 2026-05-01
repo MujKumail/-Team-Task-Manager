@@ -240,11 +240,22 @@ Replace `<your-backend-url>` with the public Railway URL for the backend service
 
 ## Screenshots
 
-Add screenshots here:
+## Screenshots
 
-- Login page
-- Dashboard
-- Projects list
-- Project task board
-- Members tab
+### 🔐 Login Page
+![Login](./screenshots/login.png)
 
+### 📝 Signup Page
+![Signup](./screenshots/signup.png)
+
+### 📊 Dashboard
+![Dashboard](./screenshots/dashboard.png)
+
+### 📁 Projects List
+![Projects](./screenshots/projects.png)
+
+### 📋 Task Board 
+![Task Board](./screenshots/board.png)
+
+### 👥 Members Management
+![Members](./screenshots/members.png)
